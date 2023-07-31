@@ -7,10 +7,13 @@
 }
 
 
+.outline {
+    box-shadow: 0px 3px 50px 5px hsl(0, 54%, 72%);
+}
 
 .header {
     height: 91px;
-    background: #5b356c;
+    background: #212727;
 }
 .hone {
     float: left;
@@ -63,3 +66,63 @@
     font-weight: bold;
     color: navajowhite;
 }
+
+
+
+
+
+
+
+.content {
+    height: 500px;
+    background: #212727;
+}
+
+.contone {
+    background: #212727;
+    width: 680px;
+    float: left;
+    margin-top: 20px;
+}
+.mybio {
+    margin-top: 150px;
+    margin-left: 25px;
+}
+
+.conttwo {
+
+    width: 440px;
+    float: right;
+    margin-top: 95px;
+    height: 380px;
+}
+
+.conimage{}
+
+.conimage img {
+    height: 340px;
+    width: 300px;
+    margin-left: 70px;
+    margin-top: 30px;
+    box-shadow: 17px -10px 86px 6px #3d4e59;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
